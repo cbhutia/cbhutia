@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I have a diverse work experience in the field of IT and customer support. I began my career in 2011 as an IT Technician, providing on-site and remote support for hardware and software. In 2016, I joined as an IT Helpdesk Technician, where I worked on various projects and resolved issues related to hardware, printers, networking, and software. The following year, I became a Technical Product Support Specialist, where I handled issues and requests, worked closely with clients, and conducted regular quality assurance checks. My role evolved to Head of Customer Support, where I led a team of support agents, improved KPIs, and created internal procedures and customer-facing documentation. My experience showcases both technical expertise and leadership skills in customer support and IT roles.
+With a diverse background in IT and customer support, I embarked on my career as an IT Technician in 2011, transitioning through roles as a Technical Product Support Specialist and eventually as the Head of Customer Support. 
+
+Currently, on a journey to become a full-stack developer, further expanding my skill set and knowledge. This progression highlights a blend of technical skills, leadership experience, and my ongoing commitment to professional growth.
 
 
 # 💻 Tech Stack:
